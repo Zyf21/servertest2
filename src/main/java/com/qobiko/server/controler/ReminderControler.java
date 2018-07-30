@@ -19,10 +19,7 @@ public class ReminderControler {
         return "my remainder";
 
 
-        //dsfsdf
-        ////sdfsdf
-        ///sdfsdfsd
-        ///sddfsdk sdfsjdfk
+
 
     }
 }
